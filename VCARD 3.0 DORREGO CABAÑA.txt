@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Juan Marcos Dorrego
+N:Dorrego;Juan Marcos;;Sr;
+EMAIL;type="WORK,INTERNET":jmdorrego@cabargentina.com
+TEL;TYPE=CELL:+5491138561293
+TEL;TYPE="WORK,VOICE":+541153683800
+ADR;LABEL=Planta Frigorífica;TYPE=WORK:;;RP 6 km 107.2;Gral Las Heras;;;
+TITLE:IT
+ORG:Cabaña Argentina
+URL;type=WORK:www.cabargentina.com
+REV:20191105T14312018Z
+END:VCARD
